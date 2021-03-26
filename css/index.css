@@ -1,0 +1,32 @@
+body 
+{
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;   
+}
+.postbg
+{
+    display: flex;
+    height: 87vh;
+    justify-content: center;
+    align-items: center;
+}
+.allposts
+{
+    height: 50px;
+    width: 160px;
+    padding: 10px;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 100%;
+    background: #DAB641;
+    color:black;
+    float: center;                  
+    margin: 10px 10px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid white;
+    box-shadow: whitesmoke;
+}
+  
